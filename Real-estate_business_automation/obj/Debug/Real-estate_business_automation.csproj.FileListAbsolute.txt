@@ -1,0 +1,10 @@
+c:\users\cra\documents\visual studio 2015\Projects\Real-estate_business_automation\Real-estate_business_automation\bin\Debug\Real-estate_business_automation.exe.config
+c:\users\cra\documents\visual studio 2015\Projects\Real-estate_business_automation\Real-estate_business_automation\bin\Debug\Real-estate_business_automation.exe
+c:\users\cra\documents\visual studio 2015\Projects\Real-estate_business_automation\Real-estate_business_automation\bin\Debug\Real-estate_business_automation.pdb
+c:\users\cra\documents\visual studio 2015\Projects\Real-estate_business_automation\Real-estate_business_automation\obj\Debug\Real-estate_business_automation.csprojResolveAssemblyReference.cache
+c:\users\cra\documents\visual studio 2015\Projects\Real-estate_business_automation\Real-estate_business_automation\obj\Debug\Real_estate_business_automation.Form1.resources
+c:\users\cra\documents\visual studio 2015\Projects\Real-estate_business_automation\Real-estate_business_automation\obj\Debug\Real_estate_business_automation.Properties.Resources.resources
+c:\users\cra\documents\visual studio 2015\Projects\Real-estate_business_automation\Real-estate_business_automation\obj\Debug\Real-estate_business_automation.csproj.GenerateResource.Cache
+c:\users\cra\documents\visual studio 2015\Projects\Real-estate_business_automation\Real-estate_business_automation\obj\Debug\Real-estate_business_automation.exe
+c:\users\cra\documents\visual studio 2015\Projects\Real-estate_business_automation\Real-estate_business_automation\obj\Debug\Real-estate_business_automation.pdb
+c:\users\cra\documents\visual studio 2015\Projects\Real-estate_business_automation\Real-estate_business_automation\obj\Debug\Real_estate_business_automation.AddItem.resources

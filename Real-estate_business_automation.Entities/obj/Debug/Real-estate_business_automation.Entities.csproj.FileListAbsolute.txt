@@ -1,0 +1,5 @@
+c:\users\cra\documents\visual studio 2015\Projects\Real-estate_business_automation\Real-estate_business_automation.Entities\bin\Debug\Real-estate_business_automation.Entities.dll
+c:\users\cra\documents\visual studio 2015\Projects\Real-estate_business_automation\Real-estate_business_automation.Entities\bin\Debug\Real-estate_business_automation.Entities.pdb
+c:\users\cra\documents\visual studio 2015\Projects\Real-estate_business_automation\Real-estate_business_automation.Entities\obj\Debug\Real-estate_business_automation.Entities.csprojResolveAssemblyReference.cache
+c:\users\cra\documents\visual studio 2015\Projects\Real-estate_business_automation\Real-estate_business_automation.Entities\obj\Debug\Real-estate_business_automation.Entities.dll
+c:\users\cra\documents\visual studio 2015\Projects\Real-estate_business_automation\Real-estate_business_automation.Entities\obj\Debug\Real-estate_business_automation.Entities.pdb

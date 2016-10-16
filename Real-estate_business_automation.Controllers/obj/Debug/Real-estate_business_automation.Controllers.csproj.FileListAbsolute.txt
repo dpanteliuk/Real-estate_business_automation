@@ -1,0 +1,9 @@
+C:\Users\CRA\Documents\Visual Studio 2015\Projects\Real-estate_business_automation\Real-estate_business_automation.Controllers\bin\Debug\Real-estate_business_automation.Controllers.dll
+C:\Users\CRA\Documents\Visual Studio 2015\Projects\Real-estate_business_automation\Real-estate_business_automation.Controllers\bin\Debug\Real-estate_business_automation.Controllers.pdb
+C:\Users\CRA\Documents\Visual Studio 2015\Projects\Real-estate_business_automation\Real-estate_business_automation.Controllers\bin\Debug\Real-estate_business_automation.Entities.dll
+C:\Users\CRA\Documents\Visual Studio 2015\Projects\Real-estate_business_automation\Real-estate_business_automation.Controllers\bin\Debug\Real-estate_business_automation.Repositories.dll
+C:\Users\CRA\Documents\Visual Studio 2015\Projects\Real-estate_business_automation\Real-estate_business_automation.Controllers\bin\Debug\Real-estate_business_automation.Entities.pdb
+C:\Users\CRA\Documents\Visual Studio 2015\Projects\Real-estate_business_automation\Real-estate_business_automation.Controllers\bin\Debug\Real-estate_business_automation.Repositories.pdb
+C:\Users\CRA\Documents\Visual Studio 2015\Projects\Real-estate_business_automation\Real-estate_business_automation.Controllers\obj\Debug\Real-estate_business_automation.Controllers.csprojResolveAssemblyReference.cache
+C:\Users\CRA\Documents\Visual Studio 2015\Projects\Real-estate_business_automation\Real-estate_business_automation.Controllers\obj\Debug\Real-estate_business_automation.Controllers.dll
+C:\Users\CRA\Documents\Visual Studio 2015\Projects\Real-estate_business_automation\Real-estate_business_automation.Controllers\obj\Debug\Real-estate_business_automation.Controllers.pdb
