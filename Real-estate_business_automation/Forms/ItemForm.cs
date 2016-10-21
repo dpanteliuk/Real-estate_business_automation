@@ -63,6 +63,7 @@ namespace Real_estate_business_automation
                 buttonCancel.Visible = false;
                 buttonDelete.Visible = true;
                 buttonArchive.Visible = true;
+                // Review VM: magic numbers in there. Would be better to use some containers, dock them in form and use anchors in them.
                 buttonAction.Location = new Point ( 8, 208 );
 
                 textBoxName.Text = _model.Owner.Name;
@@ -81,7 +82,8 @@ namespace Real_estate_business_automation
                 
             }
         }
-
+    
+        // Review VM: there are a lot of validators in this method, that should be isolated in different functions.
         private PropertyViewModel ParseModel()
         {
             var model = _model ?? new PropertyViewModel();
@@ -129,7 +131,8 @@ namespace Real_estate_business_automation
             }
             model.Estate.Price = price;
             labelPrice.ForeColor = Color.Black;
-
+            
+            // Review VM: use string.IsNullOrEmpty or string.IsNullOrWhiteSpace in such situations.
             if (textBoxSurname.Text == "")
             {
                 labelSurname.ForeColor = Color.Red;
@@ -137,7 +140,8 @@ namespace Real_estate_business_automation
             }
             model.Owner.Surname = textBoxSurname.Text;
             labelSurname.ForeColor = Color.Black;
-
+            
+            // Review VM: not enough email validation.
             if (!textBoxMail.Text.Contains("@"))
             {
                 labelMail.ForeColor = Color.Red;
