@@ -6,7 +6,7 @@ GO
 CREATE PROC spGetEstates
 AS
 BEGIN
--- Review TK: better to use 'SELECT *' when you have to get all columns.
+-- Review VM: better to use 'SELECT *' when you have to get all columns.
 	SELECT dbo.Estate.Id, dbo.Estate.District, dbo.Estate.Rooms, dbo.Estate.Area, dbo.Estate.Address, 
 		dbo.Estate.EstOwner, dbo.Estate.Price, dbo.Estate.Rent, dbo.Estate.Sale
 	FROM dbo.Estate;
@@ -23,7 +23,7 @@ BEGIN
 	WHERE (Id = @Id)
 END;
 
--- Review TK: Missed 'GO' statement, which causes troubles with creating of the next procedure.
+-- Review VM: Missed 'GO' statement, which causes troubles with creating of the next procedure.
 
 CREATE PROC spInsertEstate
 	@District INT NULL,
