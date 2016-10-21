@@ -14,6 +14,7 @@ using System.Windows.Forms;
 
 namespace Real_estate_business_automation
 {
+    // Review VM: would be better to give this form some meaningful name, although it's not a big deal in this situation.
     public partial class Form1 : Form
     {
         private void Login()
@@ -155,12 +156,13 @@ namespace Real_estate_business_automation
             Search();
         }
 
-
+        // Review VM: some useless event-handler here, keep code clean. 
         private void button3_Click(object sender, EventArgs e)
         {
 
         }
-
+        
+        // Review VM: had to search which button is fourth, not cool
         private void button4_Click(object sender, EventArgs e)
         {
             if (dataGridView1.CurrentRow != null)
